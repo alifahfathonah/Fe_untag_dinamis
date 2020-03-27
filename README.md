@@ -16,9 +16,9 @@ Web Profil dibuat dengan :
 
 ## Info
 
-halaman utama   : (localhost)
-halaman login   : (localhost)/login-merdeka
-email login     : admin_fe@untag-banyuwangi.ac.id
-password login  : password
-nama database   : fe_untag
-file database   : fe_untag.sql
+- halaman utama   : (localhost)
+- halaman login   : (localhost)/login-merdeka
+- email login     : admin_fe@untag-banyuwangi.ac.id
+- password login  : password
+- nama database   : fe_untag
+- file database   : fe_untag.sql
