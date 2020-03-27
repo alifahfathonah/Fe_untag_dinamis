@@ -1,0 +1,26 @@
+[08-Dec-2018 17:04:06 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 28
+[08-Dec-2018 17:26:39 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 74
+[08-Dec-2018 17:34:54 Asia/Jakarta] PHP Fatal error:  Call to a member function num_rows() on null in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 74
+[08-Dec-2018 17:54:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 71
+[08-Dec-2018 17:55:34 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 74
+[08-Dec-2018 17:56:28 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 74
+[08-Dec-2018 17:58:03 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 77
+[08-Dec-2018 17:59:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_array() in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 77
+[08-Dec-2018 18:02:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 77
+[10-Dec-2018 19:17:08 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/LoginM.php on line 54
+[12-Dec-2018 15:56:26 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 15:56:55 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 15:58:27 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 15:59:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:02:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:06:44 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:10:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:11:01 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:15:41 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:19:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:36:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:43:06 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:44:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 132
+[12-Dec-2018 16:56:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 131
+[12-Dec-2018 16:59:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 131
+[12-Dec-2018 17:05:12 Asia/Jakarta] PHP Fatal error:  Call to undefined function base_url() in /home/idtechde/public_html/mahasiswa/application/models/MhsM.php on line 131
